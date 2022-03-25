@@ -7,14 +7,14 @@ variable "region" {
 variable "access_key" {
 
     description = "my access key"
-    default = "AKIAVMMNO6W2LGKIAT6J"
+    default = "Please access key"
   
 }
 
 variable "secret_key" {
 
     description = "my secret key"
-    default = "bPrtA/nj+ANzlHAZWmWOtKEuCVZM0aNDPqMEImER"
+    default = "Secret key"
   
 }
 
